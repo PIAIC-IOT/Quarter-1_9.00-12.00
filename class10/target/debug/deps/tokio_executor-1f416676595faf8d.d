@@ -1,0 +1,11 @@
+c:\Users\Admin\Desktop\Rust\class10\target\debug\deps\tokio_executor-1f416676595faf8d.rmeta: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\enter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\error.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\executor.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\global.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\park.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\typed.rs
+
+c:\Users\Admin\Desktop\Rust\class10\target\debug\deps\tokio_executor-1f416676595faf8d.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\enter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\error.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\executor.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\global.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\park.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\typed.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\enter.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\error.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\executor.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\global.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\park.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.8\src\typed.rs:

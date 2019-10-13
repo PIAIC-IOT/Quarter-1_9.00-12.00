@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Rust\class10\target\debug\deps\httparse-d02b47f7a04956d3.rmeta: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs
+
+C:\Users\Admin\Desktop\Rust\class10\target\debug\deps\libhttparse-d02b47f7a04956d3.rlib: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs
+
+C:\Users\Admin\Desktop\Rust\class10\target\debug\deps\httparse-d02b47f7a04956d3.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\iter.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\macros.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\mod.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\sse42.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.3.4\src\simd\avx2.rs:
