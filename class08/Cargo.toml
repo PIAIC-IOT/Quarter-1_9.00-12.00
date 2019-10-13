@@ -1,0 +1,16 @@
+[package]
+name = "class08"
+version = "0.1.0"
+authors = ["Admin <faheemuzzaman@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# my_lib = {path = "my_lib"} # Relative Path
+# iot_io = {path = "C:\\Users\\Admin\\Documents\\iot_io"} 
+# Absolute Path
+# iot_io = {path = "iot_io"}
+
+student = {path = "student"}
+
